@@ -1,6 +1,6 @@
-# 🍁 Wrake - Your Web Rake for Data 🌐🔍  
+# 🍁 wrake - Your Web Rake for Data 🌐🔍  
 
-Wrake is a simple tool powered by Llama 3.2 that helps you extract and parse specific information from web pages using natural language queries. It simplifies web scraping, making data retrieval seamless and user-friendly. 
+wrake is a simple tool powered by Llama 3.2 that helps you extract and parse specific information from web pages using natural language queries. It simplifies web scraping, making data retrieval seamless and user-friendly. 
 
 ## **📜 Features**  
 ✔️ **Natural Language Querying** – Extract data with simple text prompts  
