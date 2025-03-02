@@ -5,7 +5,7 @@ wrake is a simple tool powered by Llama 3.2 that helps you extract and parse spe
 ## **📜 Features**  
 ✔️ **Natural Language Querying** – Extract data with simple text prompts  
 ✔️ **Automated Parsing** – No manual filtering required  
-✔️ **Fast & Efficient** – Optimized for quick web data retrieval on small webpages  
+✔️ **Simple & Efficient** – Optimized for quick web data retrieval on small webpages  
 ✔️ **Easy to Use** – Streamlined setup and usage  
 
 ![wrake-demo](https://github.com/user-attachments/assets/cda9c2b6-2e30-4eb1-b6e9-a85b27921d51)
