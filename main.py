@@ -57,12 +57,12 @@ if "dom_content" in st.session_state:
 
         if st.button("Ask wrake 🔍"):
             if parse_description:
-                with st.spinner("Parsing content..."):
+                with st.spinner("Wraking your query..."):
                     dom_chunks = split_dom_content(st.session_state.dom_content)
                     parsed_result = parse_with_ollama(dom_chunks, parse_description)
                     
                     if parsed_result.strip():
-                        st.markdown("<div class='status-message success'>📝 Parsed Results</div>", unsafe_allow_html=True)
+                        st.markdown("<div class='status-message success'>🍁 Wraked leaves</div>", unsafe_allow_html=True)
                         st.markdown("""
                         <div class="parsed-results">
                             {}
